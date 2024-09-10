@@ -1,0 +1,7 @@
+item = "apple watch"
+cost = 9900
+
+SampleText5 = f"The is {item} and the cost is {cost * 100} pesos."
+print(SampleText5)
+
+The item is apple watch and the cost is 990000 pesos.
